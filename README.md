@@ -43,7 +43,7 @@ If you have any issues, please let me know in the issues section or directly to 
 ## Installation 💾
 
 ```bash
-git clone https://github.com/dodger213/eCommerce_MERN.git
+git clone https://github.com/BTC415/eCommerce_MERN.git
 ```
 
 Fill your `.env` variables:
