@@ -38,7 +38,7 @@ Fullstack Next.js E-commerce
 
 ## Code Example/Issues 🔍
 
-If you have any issues, please let me know in the issues section or directly to blue.bigtech@gmail.com
+If you have any issues, please let me know in the issues section or directly to alenschmitt415@gmail.com
 
 ## Installation 💾
 
